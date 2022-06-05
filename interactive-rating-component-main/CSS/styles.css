@@ -21,4 +21,9 @@ body {
     height: 350px;
     width: 400px;
     margin: auto;
+    background-color: hsl(213, 19%, 18%);
+}
+
+.star {
+    background-color: hsl(216, 12%, 54%);
 }
