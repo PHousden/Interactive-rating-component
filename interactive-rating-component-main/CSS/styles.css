@@ -51,15 +51,15 @@ body {
 .numbers li {
     display: inline-block;
     background-color: #262e38;
-    font-size: 24px;
+    font-size: 20px;
     color: #5e6776;
-    width: 30px;
-    height: 30px;
+    width: 36px;
+    height: 36px;
     text-align: center;
     border-radius: 50%;
-    margin: 10px;
+    text-align: center;
+    margin: 5px;
     padding: 8px;
-    
 }
 
 button {
