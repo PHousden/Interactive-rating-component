@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap');
 body {
     margin: 0;
     padding: 0;
     height: 100vh;
     background-color: hsl(216, 12%, 8%);
     color: hsl(0, 0%, 100%);
+    font-family: 'Overpass', sans-serif;;
 }
 
 .card {
@@ -73,4 +75,5 @@ button {
     border-radius: 20px;
     border-style: none;
     color: white;
+    font-family: 'Overpass', sans-serif;
 }
