@@ -18,8 +18,8 @@ body {
 .contain {
     justify-content: center;
     align-items: center;
-    height: 350px;
-    width: 400px;
+    height: 400px;
+    width: 350px;
     margin: auto;
     padding: 30px;
     background-color: #1d242e;
@@ -37,4 +37,24 @@ body {
     margin: 15px;
     margin-top: 17px;
     margin-left: 17px;
+}
+
+.numbers ul {
+    text-align: center;
+    padding-left: 0;
+    margin-top: 30px;
+}
+
+.numbers li {
+    display: inline-block;
+    background-color: #262e38;
+    font-size: 24px;
+    color: #5e6776;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    border-radius: 50%;
+    margin: 8px;
+    padding: 10px;
+    
 }
