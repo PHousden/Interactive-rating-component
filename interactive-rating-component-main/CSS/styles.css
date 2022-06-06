@@ -69,6 +69,7 @@ body {
 button {
     display: flex;
     margin: 25px 0px 25px 0px;
+    text-decoration: solid;
     justify-content: center;
     align-items: center;
     background-color: hsl(25, 97%, 53%);
@@ -83,4 +84,10 @@ button {
 
 a {
     text-decoration: none;
+}
+
+a button:hover {
+    text-decoration: solid;
+    color: hsl(25, 97%, 53%);
+    background-color: white;
 }
